@@ -1,7 +1,8 @@
 {
   "name": "simple-response-server2",
   "version": "1.0.0",
-  "main": "index.js",
-  "author": "t-tajiri <swallow.ava@gmail.com>",
-  "license": "MIT"
+  "license": "GPL",
+  "scripts": {
+    "start": "node index.js"
+  }
 }
